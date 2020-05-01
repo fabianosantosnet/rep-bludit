@@ -32,7 +32,7 @@ White and gray simple theme with 2 columns (sidebar and main) responsive, featur
 
 - CSS Reset by [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css)
 	
-- Images 
+- Images from 
    https://commons.wikimedia.org
 
 ## License
