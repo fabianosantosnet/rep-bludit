@@ -1,6 +1,6 @@
 # Ararajuba Theme for BLUDIT CMS
 
-Para detalhes em português [veja aqui no projeto](https://fabianosantosnet.github.io/bluditCMS/).
+> Para detalhes em português [veja aqui no projeto](https://fabianosantosnet.github.io/bluditCMS/).
 
 ## Name
 Its Portuguese and indigenous name, Ararajúba, means small yellow macaw. Native to the Amazon Basin of interior northern Brazil is threatened by deforestation and flooding, and also by the now-illegal trapping of wild individuals for the pet trade.
