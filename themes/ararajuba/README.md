@@ -40,4 +40,4 @@ White and gray simple theme with 2 columns (sidebar and main) responsive, featur
 - MIT
 
 ## Screenshot
-![screenshot-ararajuba-theme](https://raw.githubusercontent.com/bludit-themes/ararajuba/master/screenshot.png)
+![screenshot-ararajuba-theme](https://raw.githubusercontent.com/fabianosantosnet/themes-repository/master/items/ararajuba/screenshot.png)
