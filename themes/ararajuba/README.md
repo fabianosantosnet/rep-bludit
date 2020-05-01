@@ -30,9 +30,7 @@ White and gray simple theme with 2 columns (sidebar and main) responsive, featur
 ## Credits
 - Some parts thanks to Blekathlon and Alternative Themes
 
-- Vanilla CSS from https://github.com/bradleytaunt/vanilla-css
-    MIT License
-    Updated 03/09/2020
+- Vanilla CSS from https://github.com/bradleytaunt/vanilla-css | MIT License | Updated 03/09/2020
 	
 - Images 
    https://commons.wikimedia.org
