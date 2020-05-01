@@ -4,7 +4,7 @@
 Its Portuguese and indigenous name, Ararajúba, means small yellow macaw. Native to the Amazon Basin of interior northern Brazil is threatened by deforestation and flooding, and also by the now-illegal trapping of wild individuals for the pet trade.
 
 ## Description
-White and gray simple theme with 2 columns (sidebar and main) responsive, featured content, pagination by name and number.
+White and gray simple theme with 2 columns (sidebar and main) responsive, featured content, pagination by name and number. 
 
  Support all default plugins already installed on Bludit 3.x, also links to parent and child pages.
  
@@ -30,7 +30,7 @@ White and gray simple theme with 2 columns (sidebar and main) responsive, featur
 ## Credits
 - Some parts thanks to Blekathlon and Alternative Themes
 
-- Vanilla CSS from https://github.com/bradleytaunt/vanilla-css | MIT License | Updated 03/09/2020
+- CSS Reset by [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css)
 	
 - Images 
    https://commons.wikimedia.org
