@@ -1,9 +1,9 @@
 # Ararajuba Theme for BLUDIT CMS
 
-##Name
-Its Portuguese and indigenous name, Ararajúba, means small yellow macaw. Native to the Amazon Basin of interior northern Brazil is threatened by deforestation and flooding, and also by the now-illegal trapping of wild individuals for the pet trade.
+## Name
+Its Portuguese and indigenous name, ArarajÃºba, means small yellow macaw. Native to the Amazon Basin of interior northern Brazil is threatened by deforestation and flooding, and also by the now-illegal trapping of wild individuals for the pet trade.
 
-##Description
+## Description
 White and gray simple theme with 2 columns (sidebar and main) responsive, featured content, pagination by name and number.
 
  Support all default plugins already installed on Bludit 3.x, also links to parent and child pages.
