@@ -5,6 +5,8 @@
 ## Description
 Clean white and gray site with one column, featured content (stick pages), search, static pages (home top links) and some configuration in init.php.
 
+Default cover image size 744x160.
+
 File init.php
 - Number of sticky pages on home page (variable NUMBER_STICKY_PAGES_HOME_PAGE )
 - Content description before or after cover image (IS_DESC_BEFORE_COVER_IMAGE / IS_DESC_AFTER_COVER_IMAGE) and limited to 350 chars
