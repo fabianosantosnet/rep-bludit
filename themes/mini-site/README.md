@@ -1,5 +1,7 @@
 # Mini Site Theme for BLUDIT CMS
 
+> Para detalhes em português [veja aqui no projeto](https://fabianosantosnet.github.io/bluditCMS/).
+
 ## Description
 Clean white and gray site with one column, featured content (stick pages), search, static pages (home top links) and some configuration in init.php.
 
@@ -20,12 +22,11 @@ File init.php
 ## Credits
 - Some parts thanks to:  
    CSS Reset from [HTML5 Boilerplate v7.3.0](https://html5boilerplate.com)  
-   Font family callback from [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css/blob/master/vanilla.css)
+   Font family callback from [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css/blob/master/vanilla.css)  
    Two fonts from [OnlineWebFonts](https://www.onlinewebfonts.com/)
    
 ## License
 - MIT
 
 ## Screenshot
-![screenshot-min-site](https://raw.githubusercontent.com/bludit-themes/mini-site/master/screenshot.png)
-
+![screenshot-min-site](https://raw.githubusercontent.com/fabianosantosnet/themes-repository/master/items/mini-site/screenshot.png)
