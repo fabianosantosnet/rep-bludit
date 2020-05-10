@@ -24,7 +24,7 @@ File init.php
 ## Credits
 - Some parts thanks to:  
    CSS Reset from [HTML5 Boilerplate v7.3.0](https://html5boilerplate.com)  
-   Font family callback from [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css/blob/master/vanilla.css)  
+   Font family fallback from [Vanilla CSS](https://github.com/bradleytaunt/vanilla-css/blob/master/vanilla.css)  
    Two fonts from [OnlineWebFonts](https://www.onlinewebfonts.com/)
    
 ## License
