@@ -8,12 +8,12 @@ Clean white and gray site with one column, featured content (stick pages), searc
 Default cover image size 744x160.
 
 File init.php
-- Number of sticky pages on home page (variable NUMBER_STICKY_PAGES_HOME_PAGE )
-- Content description before or after cover image (IS_DESC_BEFORE_COVER_IMAGE / IS_DESC_AFTER_COVER_IMAGE) and limited to 350 chars
-- For static page modify default values to show description ( IS_DESC_BEFORE_COVER_IMAGE_STATIC / IS_DESC_AFTER_COVER_IMAGE_STATIC )
-- Set site's 'authorName' (meta tag info)
-- Switch between 2 paginator types (PAGINATOR_NUMBERS)
-- Set default image (IS_COVER_IMAGE_CALLBACK_SET) and image location (_DEFAULT_COVER_IMAGE)
+- Number of sticky pages on home page (variable $NUMBER_STICKY_PAGES_HOME_PAGE )
+- Content description before or after cover image ($IS_DESC_BEFORE_COVER_IMAGE / $IS_DESC_AFTER_COVER_IMAGE) and limited to 350 chars
+- For static page modify default values to show description ( $IS_DESC_BEFORE_COVER_IMAGE_STATIC / $IS_DESC_AFTER_COVER_IMAGE_STATIC )
+- Set site's '$authorName' (meta tag info)
+- Switch between 2 paginator types ($PAGINATOR_NUMBERS)
+- Set default image ($IS_COVER_IMAGE_FALLBACK_SET) and image location ($_DEFAULT_COVER_IMAGE)
 
 ## Compatible 
 - Bludit v3.x
