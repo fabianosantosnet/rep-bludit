@@ -22,4 +22,4 @@ Browser Update by browser-update.org
 MIT
 
 ## Screenshot
-![screenshot-plugin-header-content](https://github.com/fabianosantosnet/plugins-repository/master/items/header-content/screenshot.png)
+![screenshot-plugin-header-content](https://raw.githubusercontent.com/fabianosantosnet/plugins-repository/master/items/header-content/screenshot.png)
