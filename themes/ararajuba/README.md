@@ -22,6 +22,7 @@ White and gray simple theme with 2 columns (sidebar and main) responsive, featur
       - see or not footer social links 
       - set true to see paginator like numbers otherwise this texts: before, home, next (thanks to blekathlon theme)
       - also you can custom size of Cover and Thumb images
+      - added more two variables to remove cover image or description when loading a specific page (default false)	  
 
 ## Compatible 
 - Bludit v3.x
