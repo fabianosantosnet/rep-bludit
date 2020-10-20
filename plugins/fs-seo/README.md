@@ -24,7 +24,7 @@ Bludit v3.x
 @fabianosantosnet
 
 ## Credits
-Based on some default plugins: Sitemap, OpenGraph and TwitterCards
+Based on some default plugins: Sitemap, OpenGraph and TwitterCards  
 Twitter Cards and FB OpenGraph were improved [BluSeo Plugin](https://bit.ly/38Pji2K)
 
 ## License
