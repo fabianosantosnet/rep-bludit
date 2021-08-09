@@ -7,7 +7,7 @@ Three Plugins Twitter, OpenGraph and Sitemap in one. You can enable and disable 
 > **Facebook Opengraph**  
  Set Facebook App ID, Default image, Description and your Face Profile URL  
   
-> **TwitterCards**  
+> **Twitter Cards**  
 Set default image and description, also your Twitter Profile URL 
 
 > **Sitemap**  
