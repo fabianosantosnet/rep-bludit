@@ -18,6 +18,8 @@ All subplugins allows: add spaces before code or remove all spaces and place in 
 --- **Version**  
 
    Supported languages pt-BR/en   
+   
+   v1.0.1 (included support to PHP 8)
 
 --- **info**    
 https://plugins.bludit.com/  
